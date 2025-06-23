@@ -1,6 +1,3 @@
----
-
-````markdown
 # 🎉 MoodShifter Counter
 
 A fun and interactive Flutter app that demonstrates creative use of the `setState()` method.  
